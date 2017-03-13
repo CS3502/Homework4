@@ -24,7 +24,9 @@ For example:
 2 1 1 2 2 2
 0 0 2 4 3 3
 </code></pre>
-Which means there are 5 processes, 3 resource types. The first resource type has 10 units, second one has 5 unites, third one has 7 units. The following line means the first process has a allocation of resource (0, 1, 0) and the max need is (7, 5, 3). Then following lines are the similar settings for process 2 unitl to process m.
+Which means there are 5 processes, 3 resource types. The first resource type has 10 units, second one has 5 unites, third one has 7 units. The following line means the first process has a allocation of resource (0, 1, 0) and the max need is (7, 5, 3). Then following lines are the similar settings for process 2 unitl to process m.</br>
+**You could [download the input file here](https://github.com/CS3502/Homework4/blob/master/input.txt)**
+
 
 # Output:
 The program should simply print out false on console if the system is not in safe state. Otherwise, print out true and one safe sequence consists of process number (numbers are separate by space).
