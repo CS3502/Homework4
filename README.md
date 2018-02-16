@@ -41,7 +41,7 @@ Export your program as a runnable jar.
 Name your jar file as "netid".jar, e.g., My jar file will be gliu5.jar</br>
 Test out your runnable jar file bying using command `java -jar netid.jar`</br>
 And check the output.</br>
-upload your jar file into your home folder and create a symboliclink hard link file named as "netid".jar as well under /home/gliu5/homework/hw4/jars
+Rename your jar to "netid".jar and upload it under /home/gliu5/homework/hw4/jars
 </p>
 
 
